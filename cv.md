@@ -28,4 +28,19 @@
 function multiply($a, $b) {
 return $a * $b;
 }
+
 ```
+
+---
+
+### Courses and Sertification:
+
+- IT Switch Course by GlobalLogic Education | June 2022 – July 2022
+- Quality Assurance by SkillUp Education | November 2021 – January 2022
+
+---
+
+### Lenguages:
+
+- English - A2
+- Ukraine - Native
