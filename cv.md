@@ -19,3 +19,13 @@
 - JavaScript
 - Git, GitHub
 - My SQL
+
+---
+
+### Code Example:
+
+```
+function multiply($a, $b) {
+return $a * $b;
+}
+```
