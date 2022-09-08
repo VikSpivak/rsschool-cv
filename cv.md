@@ -8,7 +8,14 @@
 
 **Phone:** +38 099 3745626
 **E-mail:** spivak1020@gmail.com
-**Discord:**VikSpivak
+**Discord:** VikSpivak
 [GitHub](https://github.com/VikSpivak)
 
 ---
+
+### Skills:
+
+- HTML5, CSS3
+- JavaScript
+- Git, GitHub
+- My SQL
